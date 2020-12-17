@@ -22,7 +22,7 @@
     "admin-lte": "^3.0.5",
     "angular-datatables": "^9.0.2",
     "bootstrap": "^4.5.0",
-    "datatables.net": "^1.10.21",
+    "datatables.net": "^1.10.22",
     "datatables.net-dt": "^1.10.21",
     "install": "^0.13.0",
     "jquery": "^3.5.1",
